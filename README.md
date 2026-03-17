@@ -1,16 +1,40 @@
-## Hi there 👋
+# 🦇 Victor O.
 
-<!--
-**VictorArievilo/VictorArievilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Editor de Videos`**
 
-Here are some ideas to get you started:
+ Me chamo Victor O., tenho 19 anos e sou natural do Rio de Janeiro. Atualmente estou cursando Engenharia da Computação na UCP. Faço edição de video a uns bons 10 anos, (sim desde criança). Durante esse tempo, editei Curtas Metragens, Videos para Youtube, Tiktok e Instagram, alem de trabalhos freelancer em Empresas e para Sites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### 🎞 Softwares
+
+ <img 
+   align="left" 
+     alt="Premiere"
+    title="Premiere" 
+    width="30px" 
+    style="padding-right: 10px;" 
+   src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" 
+   />
+
+<img 
+   align="left" 
+     alt="Capcut"
+    title="Capcut (?)" 
+    width="30px" 
+    style="padding-right: 10px;" 
+   src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Capcut-icon.png" 
+   />   
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=VictorArievilo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+  
