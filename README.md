@@ -5,8 +5,7 @@
 Me chamo Victor, 19 anos, Petrópolis/RJ.
 Sempre enxerguei engenharia em tudo — num filme, num carro, num avião, num vídeo.
 Edito desde criança porque editar é engenheirar: pegar algo bruto e construir algo novo.
-Curso Engenharia da Computação na UCP — o rumo é Aeroespacial.
-
+Curso Engenharia da Computação na UCP.
 ---
 
 ### 💻 Programação
