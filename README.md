@@ -4,9 +4,9 @@
 
 - **Computer Engineering Student** at Universidade Católica de Petrópolis, (UCP).
 
-- **Fundamentals of TinyML** at Harvard University, (HarvardX).
-
 - **CS50's Introduction to Cybersecurity** at Harvard University, (HarvardX).
+
+- **Fundamentals of TinyML** at Harvard University, (HarvardX).
 
 <br/><br/>
 
