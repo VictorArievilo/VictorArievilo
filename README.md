@@ -6,6 +6,7 @@
 
 
 * **Tiny Machine Learning (TinyML)** at Harvard University (HarvardX).
+* **Cybersecurity & Systems Defense** studies at Harvard University (HarvardX).
 
 <br/><br/>
 
