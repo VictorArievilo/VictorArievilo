@@ -1,11 +1,9 @@
-<img width="736" height="200" alt="Banner" src="https://github.com/user-attachments/assets/5d51c001-ba60-4d9f-b47d-8295c6036061" />
+
 
 # Victor O.
 
-Me chamo Victor, 19 anos, Petrópolis/RJ.
-Sempre enxerguei engenharia em tudo — num filme, num carro, num avião, num vídeo.
-Edito desde criança porque editar é engenheirar: pegar algo bruto e construir algo novo.
-Curso Engenharia da Computação na UCP.
+**Computer Engineering Student** at Universidade Católica de Petrópolis (UCP).
+**Tiny Machine Learning (TinyML)** at Harvard University (HarvardX).
 ---
 
 ### 💻 Programação
